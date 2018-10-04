@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Saludo</string>
+    <string name="escribe_tu_nombre">Escribe tu nombre:</string>
+    <string name="saludar">Saludar</string>
+    <string name="https_portadaalta_mobi">https://portadaalta.mobi</string>
+    <string name="rosa">Rosa</string>
+    <string name="button">Navegar</string>
+    <string name="saludo">Saludo</string>
+</resources>
